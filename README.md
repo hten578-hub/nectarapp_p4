@@ -1,9 +1,9 @@
 # 🥦 Nectar App - Ứng dụng mua sắm tạp hóa
 
 ## 👨‍🎓 Thông tin sinh viên
-- **Họ tên**: [Điền tên của bạn]
-- **MSSV**: [Điền MSSV của bạn]
-- **Lớp**: [Điền lớp của bạn]
+- **Họ tên**: Nguyễn Thị Huệ Minh
+- **MSSV**: 23810310177
+- **Lớp**: D18CNPM4
 
 ## 📱 Mô tả chức năng
 
@@ -232,11 +232,4 @@ export const getUser = async () => {
 - [React Navigation](https://reactnavigation.org/)
 - [Expo Documentation](https://docs.expo.dev/)
 
-## 📞 Liên hệ
 
-- Email: [email của bạn]
-- GitHub: [username của bạn]
-
----
-
-**Lưu ý**: Đây là project học tập, không sử dụng cho mục đích thương mại.
