@@ -149,35 +149,35 @@ npx expo start -c
 ## 📸 Demo ảnh
 
 ### 1. Login thành công
-![Login Success](./screenshots/MSSV_01_login.png)
+![Login Success](./screenshots/23810310177_01_login.jpg)
 
 ### 2. Auto-login sau khi tắt app
-![Auto Login](./screenshots/MSSV_02_autologin.png)
+![Auto Login](./screenshots/23810310177_02_autologin.jgp)
 
 ### 3. Logout quay về màn hình đăng nhập
-![Logout](./screenshots/MSSV_03_logout.png)
+![Logout](./screenshots/23810310177_03_logout.jpg)
 
 ### 4. Thêm sản phẩm vào giỏ
-![Add to Cart](./screenshots/MSSV_04_add_cart.png)
+![Add to Cart](./screenshots/23810310177_04_add_cart.jpg)
 
 ### 5. Giỏ hàng vẫn còn sau khi tắt app
-![Cart Persist](./screenshots/MSSV_05_cart_reload.png)
+![Cart Persist](./screenshots/23810310177_05_cart_reload.jpg)
 
 ### 6. Thay đổi số lượng
-![Change Quantity](./screenshots/MSSV_06_quantity.png)
+![Change Quantity](./screenshots/23810310177_06_quantity.jpg)
 
 ### 7. Checkout thành công
-![Checkout](./screenshots/MSSV_07_checkout.png)
+![Checkout](./screenshots/23810310177_07_checkout.jpg)
 
 ### 8. Danh sách đơn hàng
-![Orders List](./screenshots/MSSV_08_orders.png)
+![Orders List](./screenshots/23810310177_08_orders.jpg)
 
 ### 9. Đơn hàng vẫn còn sau khi reload
-![Orders Reload](./screenshots/MSSV_09_orders_reload.png)
+![Orders Reload](./screenshots/23810310177_09_orders_reload.jpg)
+
 
 ## 🎥 Video demo
-
-[Link video demo của bạn]
+(https://drive.google.com/file/d/1rbZtrXBh-Pn1q5AP5JICmyCbQzdLmkmo/view?usp=sharing)
 
 ## 📝 Tài liệu kỹ thuật
 
